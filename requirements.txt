@@ -6,4 +6,3 @@ sentence-transformers
 faiss-cpu
 langchain_openai
 openai
-beautifulsoup4
