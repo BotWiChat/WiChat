@@ -1,0 +1,9 @@
+langchain
+transformers
+langchain-community
+unstructured
+sentence-transformers
+faiss-cpu
+langchain_openai
+openai
+beautifulsoup4
