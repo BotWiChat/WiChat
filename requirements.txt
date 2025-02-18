@@ -7,3 +7,5 @@ sentence-transformers
 faiss-cpu
 langchain_openai
 openai
+pyttsx3 
+SpeechRecognition
