@@ -1,4 +1,4 @@
-streamlit
+gradio
 langchain
 transformers
 langchain-community
@@ -7,5 +7,7 @@ sentence-transformers
 faiss-cpu
 langchain_openai
 openai
-pyttsx3 
+kivymd
+tf-keras
 SpeechRecognition
+
