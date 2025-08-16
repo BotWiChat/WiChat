@@ -10,4 +10,7 @@ openai
 kivymd
 tf-keras
 SpeechRecognition
-
+ipython
+gTTS
+pyttsx3
+pyAudio
