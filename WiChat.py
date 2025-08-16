@@ -474,4 +474,5 @@ class WiChat(MDApp):
 
 
 if __name__ == "__main__":
+
     WiChat().run()
