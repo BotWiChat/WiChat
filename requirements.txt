@@ -1,3 +1,4 @@
+python3
 gradio
 langchain
 transformers
@@ -7,6 +8,7 @@ sentence-transformers
 faiss-cpu
 langchain_openai
 openai
+kivy
 kivymd
 tf-keras
 SpeechRecognition
@@ -14,3 +16,4 @@ ipython
 gTTS
 pyttsx3
 pyAudio
+
