@@ -16,4 +16,3 @@ ipython
 gTTS
 pyttsx3
 pyAudio
-
